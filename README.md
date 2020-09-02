@@ -1,6 +1,7 @@
 VBA Homework - The VBA of Wall Street.
 
 Instructions
+
 Create a script that will loop through all the stocks for one year and output the following information.
 
   The ticker symbol.
@@ -13,4 +14,5 @@ Create a script that will loop through all the stocks for one year and output th
 
 
 CHALLENGES
+
 The solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
